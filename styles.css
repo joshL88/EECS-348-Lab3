@@ -18,8 +18,14 @@ img{
 
 table{
   border: solid red 2px;
-  color: greenyellow;
+  color: darkblue;
 }
+
+td{
+  border: solid red 2px;
+  color: darkblue;
+}
+
 .center_text
 {
     text-align: center;
